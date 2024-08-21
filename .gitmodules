@@ -1,0 +1,3 @@
+[submodule "AWS-VPC-Automation"]
+	path = AWS-VPC-Automation
+	url = https://github.com/lakshmanarao3/AWS-VPC-Automation
